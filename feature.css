@@ -1,0 +1,107 @@
+
+
+.in  img { 
+    display: flex;
+    justify-content: space-between;
+    width: 98%;
+    height: 50%;
+    
+
+}
+.in  {
+    display: flex;
+}
+.one {
+    margin-right: 30px;
+    border: 2px solid #000;
+    padding: 10px;
+    
+}
+.two {
+    margin-right: 30px;
+    border: 2px solid #000;
+    padding: 10px;
+}
+.three {
+    margin-right: 30px;
+    border: 2px solid #000;
+    padding: 10px;
+}
+.four {
+    margin-right: 30px;
+    border: 2px solid #000;
+    padding: 10px;
+}
+.hi {
+    text-align: center;
+    
+}
+.hii {
+    text-align: center;
+    text-decoration: underline;
+
+}
+.view {
+    
+    
+    text-align: center;
+    margin: 50px;
+}
+.view a {
+    text-decoration: none;
+     background-color: green;
+color: #fff;
+padding: 10px;
+border-radius: 8px;
+
+}
+.top img {
+    width= "10px";
+    height= "30px";
+}
+.top-1 {
+    background-image: url("scholarship-bg.png");
+    color: #fff;
+    display: flex;
+    background-size: cover;
+}
+.top-1 {
+display: flex;
+padding: 30px;
+}
+.top-1{
+    color: #fff;
+}
+.center {
+    display: flex;
+    align-items: center;
+}
+.apply{
+    margin: 10px 0;
+
+}
+.apply a{
+    padding: 10px;
+    background-color: green;
+    color: #fff;
+    background-origin: 5px;
+    text-decoration: none;
+}
+.top-1  h1,p{
+margin: 30px 0;
+}
+.d1 {
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
